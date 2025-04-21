@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Atualiza\u00e7\u00f5es em Dengue: Manejo Cl\u00ednico na Fase Cr\u00edtica",
+      "published": 1744658040,
+      "description": "Discuss\u00e3o sobre os protocolos revisados para o atendimento da dengue em pacientes com sinais de alarme.",
+      "itunes_episode": 1,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_1.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Abordagem Diagn\u00f3stica de Febre Prolongada",
+      "published": 1744053240,
+      "description": "Revis\u00e3o sistem\u00e1tica das principais causas infecciosas e fluxogramas cl\u00ednicos.",
+      "itunes_episode": 2,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_2.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Resist\u00eancia Bacteriana: Panorama Brasileiro 2025",
+      "published": 1743448440,
+      "description": "An\u00e1lise dos dados mais recentes sobre resist\u00eancia a antimicrobianos no pa\u00eds.",
+      "itunes_episode": 3,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_3.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "HIV em 2025: Novas Fronteiras Terap\u00eauticas",
+      "published": 1742843640,
+      "description": "Debate sobre os avan\u00e7os em esquemas de tratamento e terapias de longa a\u00e7\u00e3o.",
+      "itunes_episode": 4,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_4.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Infec\u00e7\u00f5es Relacionadas \u00e0 Assist\u00eancia \u00e0 Sa\u00fade (IRAS)",
+      "published": 1742238840,
+      "description": "Preven\u00e7\u00e3o, diagn\u00f3stico e tratamento das principais IRAS em hospitais brasileiros.",
+      "itunes_episode": 5,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_5.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Covid-19: Atualiza\u00e7\u00f5es P\u00f3s-Pandemia",
+      "published": 1741634040,
+      "description": "O que mudou na abordagem cl\u00ednica ap\u00f3s os anos cr\u00edticos da pandemia.",
+      "itunes_episode": 6,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_6.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Zoonoses Emergentes: Monitoramento e Conten\u00e7\u00e3o",
+      "published": 1741029240,
+      "description": "Discuss\u00e3o sobre novas zoonoses e estrat\u00e9gias de vigil\u00e2ncia epidemiol\u00f3gica.",
+      "itunes_episode": 7,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_7.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Tuberculose Latente: Quando Tratar?",
+      "published": 1740424440,
+      "description": "Crit\u00e9rios de indica\u00e7\u00e3o e esquemas dispon\u00edveis para tratar a TB latente.",
+      "itunes_episode": 8,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_8.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Antif\u00fangicos em Terapia Intensiva",
+      "published": 1739819640,
+      "description": "Uso racional e orienta\u00e7\u00f5es cl\u00ednicas para pacientes cr\u00edticos.",
+      "itunes_episode": 9,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_9.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Infec\u00e7\u00f5es em Transplantes de \u00d3rg\u00e3os S\u00f3lidos",
+      "published": 1739214840,
+      "description": "Cuidados espec\u00edficos e profilaxias em pacientes imunossuprimidos.",
+      "itunes_episode": 10,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_10.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Vacinas em Adultos: Quais, Quando e Por Qu\u00ea?",
+      "published": 1738610040,
+      "description": "Calend\u00e1rio vacinal atualizado e indica\u00e7\u00f5es para popula\u00e7\u00f5es especiais.",
+      "itunes_episode": 11,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_11.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Doen\u00e7as Tropicais Negligenciadas",
+      "published": 1738005240,
+      "description": "Panorama atual e estrat\u00e9gias de enfrentamento das doen\u00e7as mais esquecidas do pa\u00eds.",
+      "itunes_episode": 12,
+      "itunes_episodeType": "full",
+      "itunes_image": {
+        "href": "https://example.com/infectologia-cover.jpg"
+      },
+      "enclosures": [
+        {
+          "url": "https://example.com/audio/episodio_12.mp3",
+          "type": "audio/mpeg"
+        }
+      ]
+    }
+  ]
+}
