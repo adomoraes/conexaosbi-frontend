@@ -137,7 +137,7 @@ function EpisodeEntry({ episode }) {
                   className="h-2.5 w-2.5 fill-current"
                 />
                 <span className="ml-3" aria-hidden="true">
-                  Listen
+                  Ouça
                 </span>
               </button>
               <span
@@ -151,7 +151,7 @@ function EpisodeEntry({ episode }) {
                 className="flex items-center text-sm font-bold leading-6 text-pink-500 transition-colors hover:text-pink-700 active:text-pink-900"
                 aria-label={`Show notes for episode ${episode.title}`}
               >
-                Show notes
+                Sobre o episódio
               </Link>
             </div>
           </div>
